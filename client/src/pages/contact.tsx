@@ -221,7 +221,7 @@ export default function Contact() {
                       <Mail className="h-6 w-6 text-accent mt-1 mr-4" />
                       <div>
                         <h4 className="font-semibold">Email</h4>
-                        <p className="text-gray-300">contact@civi.ai</p>
+                        <p className="text-gray-300">contact@civi.com.my</p>
                       </div>
                     </div>
                     

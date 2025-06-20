@@ -261,22 +261,22 @@ export default function AIAgents() {
             >
               <Card className="bg-white shadow-xl">
                 <CardContent className="p-8">
-                  <h3 className="text-2xl font-bold text-foreground mb-6">Use Case: Healthcare System</h3>
+                  <h3 className="text-2xl font-bold text-foreground mb-6">Use Case: Social Audit Institute</h3>
                   <p className="text-muted-foreground mb-6">
-                    A regional healthcare network deployed our AI agents for patient triage and appointment scheduling, resulting in dramatic improvements in efficiency and patient satisfaction.
+                    Institutes focused on social audits can leverage AI-driven tools to enhance transparency, streamline reporting, and empower citizen engagement. By automating data collection and analysis, these tools enable faster insights and more impactful social accountability.
                   </p>
                   <div className="space-y-4">
                     <div className="flex justify-between items-center">
-                      <span className="text-sm text-muted-foreground">Patient Wait Times</span>
-                      <span className="text-lg font-semibold text-green-600">-65%</span>
+                      <span className="text-sm text-muted-foreground">Data Verification Time</span>
+                      <span className="text-lg font-semibold text-green-600">-60%</span>
                     </div>
                     <div className="flex justify-between items-center">
-                      <span className="text-sm text-muted-foreground">Administrative Costs</span>
-                      <span className="text-lg font-semibold text-blue-600">-45%</span>
+                      <span className="text-sm text-muted-foreground">Operational Overhead</span>
+                      <span className="text-lg font-semibold text-blue-600">-40%</span>
                     </div>
                     <div className="flex justify-between items-center">
-                      <span className="text-sm text-muted-foreground">Patient Satisfaction</span>
-                      <span className="text-lg font-semibold text-purple-600">+50%</span>
+                      <span className="text-sm text-muted-foreground">Community Engagement</span>
+                      <span className="text-lg font-semibold text-purple-600">+55%</span>
                     </div>
                   </div>
                 </CardContent>
