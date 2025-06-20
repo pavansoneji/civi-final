@@ -1,0 +1,87 @@
+"Build a modern, professional, and trustworthy website for my startup company, Civi.
+
+**About Civi:**
+Civi is a startup that focuses on AI-driven tools designed to revolutionize how businesses operate. Our core offerings include:
+1.  **AI-Powered Client Management:** [Briefly explain the unique AI benefits - e.g., "predictive analytics for client retention," "automated communication workflows," "intelligent client insights"]
+2.  **AI-Powered Case Management:** [Briefly explain the unique AI benefits - e.g., "intelligent case routing," "automated document analysis," "predictive risk assessment"]
+3.  **AI-Powered Learning Management Solution (LMS):** [Briefly explain the unique AI benefits - e.g., "personalized learning paths," "AI-driven content recommendations," "automated progress tracking and insights"]
+4.  **Custom AI Agents:** For various industries, designed to [e.g., "automate repetitive tasks," "provide intelligent customer support," "analyze industry-specific data"]. We target industries like [mention 2-3 target industries if you have them, e.g., "healthcare, finance, and retail"].
+
+**Website Goal:**
+The primary goal of this website is to clearly showcase our innovative AI solutions, establish Civi as a leader in AI-driven business tools, generate leads, and encourage visitors to request demos or contact us for more information.
+
+**Key Website Sections/Pages:**
+
+1.  **Homepage:**
+    * Compelling headline and brief introduction to Civi and the problems we solve with AI.
+    * Overview of our core product categories (Client Management, Case Management, LMS, AI Agents) with clear, concise descriptions and links to their respective pages.
+    * Highlight key benefits of using Civi's AI solutions (e.g., increased efficiency, improved decision-making, cost savings, enhanced user experience).
+    * Call to action (e.g., "Request a Demo," "Explore Our Solutions," "Contact Us").
+    * [Optional: A section for "Why Choose Civi?" or "Our AI Difference"]
+    * [Optional: Social proof elements like "Trusted by" or testimonials if you have any planned]
+
+2.  **About Us:**
+    * Our mission, vision, and company values.
+    * The story behind Civi (optional, but can add a personal touch).
+    * Information about our team and expertise in AI (optional, if you want to highlight this).
+
+3.  **Products/Services (Main Page or Dropdown Menu):**
+    * A brief overview of all our AI solutions.
+
+    * **Dedicated Pages for Each Product:**
+        * **AI Client Management:**
+            * Detailed explanation of the product.
+            * Key features and how AI enhances them.
+            * Benefits for businesses/users.
+            * Use cases or examples.
+            * Specific call to action (e.g., "Learn More about AI Client Management," "See it in Action").
+        * **AI Case Management:**
+            * Detailed explanation of the product.
+            * Key features and how AI enhances them.
+            * Benefits for businesses/users.
+            * Use cases or examples.
+            * Specific call to action.
+        * **AI Learning Management Solution:**
+            * Detailed explanation of the product.
+            * Key features and how AI enhances them.
+            * Benefits for educational institutions or businesses.
+            * Use cases or examples.
+            * Specific call to action.
+        * **AI Agents:**
+            * Explanation of our custom AI Agent capabilities.
+            * Examples of industries we serve and the types of tasks AI Agents can handle.
+            * Benefits of deploying custom AI Agents.
+            * Call to action (e.g., "Discuss Your AI Agent Needs," "Get a Custom Quote").
+
+4.  **Industries (Optional, but recommended if AI Agents have specific industry focuses):**
+    * Dedicated pages or sections explaining how our AI solutions cater to specific industries (e.g., Healthcare, Finance, Education, Customer Service).
+    * Highlight industry-specific benefits and use cases.
+
+5.  **Contact Us:**
+    * Contact form (Name, Email, Company, Message, How did you hear about us?).
+    * Email address.
+    * [Optional: Phone number, physical address if applicable].
+    * Links to social media profiles (if any).
+
+6.  **Blog (Optional, but good for SEO and thought leadership):**
+    * A section for articles related to AI, industry insights, product updates, etc.
+
+**Design and Tone:**
+* **Modern and Innovative:** Reflecting our cutting-edge AI technology.
+* **Professional and Trustworthy:** To build confidence with potential clients.
+* **Clean and User-Friendly:** Easy to navigate and understand.
+* **Visually Appealing:** Use a color scheme that is [e.g., "tech-oriented like blues and grays with a vibrant accent color," or "professional and calming"]. If you have a logo or brand colors, mention them.
+* **Responsive Design:** The website must look good and function well on all devices (desktops, tablets, and mobiles).
+
+**Call to Actions (CTAs):**
+* Strategically place clear CTAs throughout the website. Examples: "Request a Demo," "Learn More," "Contact Sales," "Get Started," "Explore Solutions."
+
+**Content Style:**
+* Clear, concise, and benefit-oriented language.
+* Avoid overly technical jargon where possible, or explain it simply.
+* Focus on how Civi's AI solutions solve problems and deliver value.
+
+**Inspiration (Optional):**
+* [If you have 1-2 websites you like the style of, you can mention them as inspiration, but be clear you want a unique site for Civi.]
+
+Please generate the foundational HTML, CSS, and JavaScript for this website. Focus on a logical structure, clear navigation, and placeholders for where specific content and images will go. Suggest areas where AI-generated visuals or icons could be particularly effective."
